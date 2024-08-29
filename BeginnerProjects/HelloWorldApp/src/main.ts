@@ -6,7 +6,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   standalone: true,
   template: `<h1>Hello World!</h1>`,
 })
-export class DemoComponent {
+export class HelloWorldComponent {
 }
 
-bootstrapApplication(DemoComponent);
+bootstrapApplication(HelloWorldComponent);
